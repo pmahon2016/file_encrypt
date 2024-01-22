@@ -1,0 +1,9 @@
+# created by virtualenv automatically
+*
+
+
+
+!.gitignore
+!encrypt_decrypt.py
+!key.file
+!test.text
